@@ -24,6 +24,7 @@ setup(
         'Topic :: Internet :: WWW/HTTP',
         'Topic :: Utilities',
     ],
+    keywords='django bootstrap admin theme',
     install_requires=[
         'django>=1.4',
     ],
