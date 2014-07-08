@@ -1,0 +1,3 @@
+[submodule "django_adminlte/static/AdminLTE"]
+	path = django_adminlte/static/AdminLTE
+	url = git@github.com:almasaeed2010/AdminLTE.git
